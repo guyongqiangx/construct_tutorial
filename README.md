@@ -1,7 +1,3 @@
----
-description: Construct 简明教程
----
-
 # README.md
 
 ## Construct 简明教程
