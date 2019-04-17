@@ -5,4 +5,6 @@
 * [Struct](struct.md)
 * [Container](container.md)
 * [Sequence](untitled.md)
+* [Repeater](repeater.md)
+* [String](string.md)
 
