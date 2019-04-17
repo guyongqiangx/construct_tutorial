@@ -4,5 +4,5 @@
 * [Field](field.md)
 * [Struct](struct.md)
 * [Container](container.md)
-* [Sequences](untitled.md)
+* [Sequence](untitled.md)
 
