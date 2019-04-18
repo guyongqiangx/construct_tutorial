@@ -7,4 +7,5 @@
 * [Sequence](untitled.md)
 * [Repeater](repeater.md)
 * [String](string.md)
+* [Alignment and padding](alignment-and-padding.md)
 
