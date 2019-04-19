@@ -8,4 +8,5 @@
 * [Repeater](repeater.md)
 * [String](string.md)
 * [Alignment and padding](alignment-and-padding.md)
+* [Compression and checksuming](compression-and-checksuming.md)
 
